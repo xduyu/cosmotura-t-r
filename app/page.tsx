@@ -1118,7 +1118,7 @@ export default function Home() {
           <li><a href="#">Пресса</a></li>
           <li><a href="#">Контакты</a></li>
         </ul>
-        <div className="footer-copy">© 2024 COSMOTURA · Все права защищены</div>
+        <div className="footer-copy">© 2026 COSMOTURA · Все права защищены · Made by Rodya and his Team with love</div>
       </footer>
     </>
   );
